@@ -1,3 +1,12 @@
+# Notice: World to Build has ceased operations.
+
+Effective immediately as of May 20th, 2024, World to Build has shut down all operations on their website. This unfortunately means that this bot is entirely useless as the entire bot relied on the APIs that were available on the website. We apologize for the inconvenience, and you can feel free to fork this copy or do whatever you would like with it.
+
+Information regarding the shutdown of World to Build can be found [here:]([https://github.com/Polytoria/Docs/tree/new-docs](https://web.archive.org/web/20240130014644/https://blog.worldtobuild.com/2024/01/the-end-of-the-road/))
+
+Long live World to Build!  2018 - 2024
+
+
 # World To Build Bot
 This is a simple bot for the game World To Build using their api to fetch some data.
 
